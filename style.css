@@ -1,0 +1,69 @@
+/* nav{
+    background-image: url(https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/consumer/home/landing/new/all_in_one.jpg);
+} */
+.headerDiv{
+    /* background-image: url(https://doordashstore.com/images/DD-smsimage-R1-01.png);
+    background-repeat:no-repeat;
+    background-size: cover; */
+    background-color: #F0382F;
+    height: 25rem;
+   
+}
+.navHeadDiv{
+    text-align: center;
+}
+.navbarBtt{
+    display: flex;
+    justify-content: center;
+}
+.navDivBigHeader{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.navPBigHeader{
+    width:50%;
+    text-align: center;
+}
+.navInputDivBigHeader{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.itemDiv{
+    width: 319px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.mainDiv{
+    /* display: flex;
+    justify-content: space-between;
+    align-content: center; */
+}
+.bigDiv{
+margin-top: 96px;
+/* display: flex;
+justify-content: space-between;
+flex-wrap: wrap; */
+}
+
+.left{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+}
+.right{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.list{
+    list-style-type: none;
+}
+/* .footerFoot{
+    display: flex;
+  justify-content: space-between;
+} */
